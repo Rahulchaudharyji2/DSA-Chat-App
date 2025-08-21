@@ -1,0 +1,17 @@
+    @import "tailwindcss";
+    
+
+    /* Custom keyframes for the dot-flashing animation */
+    @keyframes dot-flashing {
+      0%, 100% {
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+    }
+    
+    .dot-flashing {
+      animation-name: dot-flashing;
+    }
+    
