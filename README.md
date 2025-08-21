@@ -128,5 +128,4 @@ For major changes, open an issue first to discuss.
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 - [Google Gemini](https://aistudio.google.com/)
-- [Your Vector DB provider]
-- [OpenAI for RAG inspiration]
+
